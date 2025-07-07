@@ -111,12 +111,6 @@ curl -X POST http://localhost:8000/api/chat \
 
 ---
 
-## 📄 License
-
-MIT — feel free to use, fork, or contribute.
-
----
-
 ## 🤛 Questions or Contributions?
 
 Open issues or PRs on [GitHub](https://github.com/damoxy/marketing-chatbot-api).
